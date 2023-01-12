@@ -16,5 +16,5 @@ This is a simple project to demonstrate how to use grid layout.
 This is a simple project to demonstrate how to use grid layout.
 
 ## live demo
-To see the site live click [here](https://onescode.cf)
+To see the site live click [here](https://onesdev.cf)
 

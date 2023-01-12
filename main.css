@@ -89,7 +89,8 @@ button{
     ;
 }
 .trending .trending-image img{
-    height:150px;
+    height:100%;
+    width: 100%;
 }
 .trending-one{
     grid-area: trending-one;
